@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <div>HUMA BOT</div>
+      <footer class="fot">Produced by Rana Abdul Mateen</footer>
     </>
   )
 }
